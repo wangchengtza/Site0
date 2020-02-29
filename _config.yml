@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: 柳丁王
+name: 王柳丁
+description: 2020.2.29
 
 github: https://github.com/showzeng/Minimalism
 rss: true
